@@ -1,0 +1,12 @@
+Instruksi Submission :
+
+- Untuk File Uji Gambar Dapat di unduh melalui file rockpaperscissor
+  yang sudah disediakan oleh Dicoding.
+
+- untuk ekstraknya, file 'tmp' jangan di beri / ex:'/tmp'
+- hasil ekstrak file dapat di lihat di panel sebelah kiri, lalu download 
+  gambar yang ada..
+
+- Kemudian lakukan pengujian..
+
+CATATAN : Tidak disarankan COPY PASTE Kode program yang ada.
